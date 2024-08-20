@@ -45,4 +45,5 @@ dependencies {
     implementation "androidx.appcompat:appcompat:1.5.1"
     implementation 'com.google.android.gms:play-services-wallet:19.1.0'
     implementation "androidx.browser:browser:1.4.0"
+    implementation "com.afterpay:afterpay-android:4.7.0"
 }
